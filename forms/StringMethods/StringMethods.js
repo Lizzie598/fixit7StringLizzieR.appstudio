@@ -11,4 +11,6 @@ let secondQuote = "Talent is cheaper than table salt. What separates the talente
 //2f
 let lowerCaseString = secondQuote.toLowerCase();
 //2g
-let thirdChar = secondQuote.charAt(3)
+let thirdChar = secondQuote.charAt(3);
+//2h
+let findString = secondQuote.slice(36,
