@@ -13,4 +13,5 @@ let lowerCaseString = secondQuote.toLowerCase();
 //2g
 let thirdChar = secondQuote.charAt(3);
 //2h
-let findString = secondQuote.slice(36,
+let findString = secondQuote.slice(35,120);
+console.log(findString);
